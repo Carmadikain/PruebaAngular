@@ -1,0 +1,10 @@
+ <!DOCTYPE html>
+2 <html lang="es" ng-app="MiApp">
+3 <head>
+4 <meta charset="UTF-8">
+5 <title>Titulo</title>
+6 </head>
+7 <body>
+8 <div ng-controller="MiCtrl">Hola Mundo!</div>
+9 </body>
+10 </html>
